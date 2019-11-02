@@ -1,1 +1,1 @@
-# php-format - zmodyfikowane - zmodyfikowane - zmodyfikowane - zmodyfikowane - zmodyfikowane - zmodyfikowane - zmodyfikowane - zmodyfikowane - zmodyfikowane + 1 + 1 + 1 + 1
+# php-format - zmodyfikowane - zmodyfikowane - zmodyfikowane - zmodyfikowane - zmodyfikowane - zmodyfikowane - zmodyfikowane - zmodyfikowane - zmodyfikowane + 1 + 1 + 1 + 1 + 1
