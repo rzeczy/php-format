@@ -1,20 +1,8 @@
 <?php
 
-declare(strict_types=1);
+final class Sample {
+private $foo;
+public function __construct() { $this->foo = 'foo content';}
 
-namespace Foo;
-
-class Foo
-{
-    private $value;
-
-    public function __construct($value)
-    {
-        $this->value = $value;
-    }
-
-    public function value()
-    {
-        return $this->value;
-    }
+public function foo() { return $this->foo;}
 }
