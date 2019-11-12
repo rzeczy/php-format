@@ -1,16 +1,1 @@
-<?php
-
-final class Sample
-{
-    private $foo;
-
-    public function __construct()
-    {
-        $this->foo = 'foo content';
-    }
-
-    public function foo()
-    {
-        return $this->foo;
-    }
-}
+<?php final class Sample {private ;public function __construct() { ->foo = 'foo content';}public function foo() { return ->foo;}}
