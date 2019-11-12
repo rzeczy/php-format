@@ -1,16 +1,9 @@
 <?php
 
-final class Sample
-{
-    private $foo;
+final class Sample {
+private $foo;
+public function __construct() { $this->foo = 'foo content';}
 
-    public function __construct()
-    {
-        $this->foo = 'foo content';
-    }
-
-    public function foo()
-    {
-        return $this->foo;
-    }
+public function foo() { return $this->foo;}
 }
+
