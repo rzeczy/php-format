@@ -2,17 +2,22 @@
 
 namespace App;
 
-final class Sample
+final class Foo
 {
-    private $foo;
+    private string $foo;
 
     public function __construct()
     {
         $this->foo = 'foo content';
     }
 
-    public function foo()
+    public function foo(): string
     {
         return $this->foo;
+    }
+
+    public function date(): string
+    {
+        return 'czw, 16 sty 2020, 20:51:03 CET';
     }
 }
