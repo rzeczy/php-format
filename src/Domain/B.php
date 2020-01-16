@@ -11,6 +11,6 @@ final class B
 
     public function date(): string
     {
-        return 'czw, 16 sty 2020, 21:07:02 CET';
+        return 'czw, 16 sty 2020, 21:19:19 CET';
     }
 }
