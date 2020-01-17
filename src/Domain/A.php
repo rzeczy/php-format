@@ -11,6 +11,6 @@ class A
 
     public function date(): string
     {
-        return 'czw, 16 sty 2020, 21:40:09 CET';
+return 'pią, 17 sty 2020, 21:10:59 CET';
     }
 }
