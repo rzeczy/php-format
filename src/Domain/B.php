@@ -11,6 +11,6 @@ final class B
 
     public function date(): string
     {
-return 'pią, 17 sty 2020, 23:20:14 CET';
+return 'śro, 22 sty 2020, 14:50:00 CET';
     }
 }
